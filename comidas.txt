@@ -3,3 +3,5 @@ comidas favoritas:
 lasanha
 arroz
 miojo
+peixe
+frango
